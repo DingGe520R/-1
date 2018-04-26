@@ -1,0 +1,30 @@
+#nav{
+    margin: 0 auto;
+    width: 960px;
+    height: 80px;
+}
+#nav h3{
+
+    float: left;
+    margin-left: 150px;
+}
+#cen{
+    width: 1300px;
+    height: 1280px;
+    border: solid 1px gray;
+    margin: 0 auto;
+}
+#cen div{
+    width: 400px;
+    height: 400px;
+    margin-left: 25px;
+    margin-top: 10px;
+   
+    float: left;
+}
+#cen p {
+    font-style: inherit;
+    font-size: 18px;
+    margin-left: 20px;
+    line-height: 40px;
+}

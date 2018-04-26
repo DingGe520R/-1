@@ -1,0 +1,83 @@
+#nav{
+  margin: 0 auto;
+    width: 960px;
+    height: 80px;
+}
+#nav h3{
+
+   float: left;
+    margin-left: 150px;
+}
+#cen{
+    width: 1300px;
+    height: 1280px;
+    border: solid 1px gray;
+    margin: 0 auto;
+}
+.img1{
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.tex1{
+    width: 400px;
+    height: 400px;
+    margin-left: 450px;
+    margin-top: -400px;
+
+}
+.img2{
+    width: 400px;
+    height: 400px;
+    margin-left: 890px;
+    margin-top: -420px;
+}
+.tex2{
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.img3 {
+    width: 400px;
+    height: 400px;
+    margin-left: 450px;
+    margin-top: -400px;
+}
+.tex3 {
+    width: 400px;
+    height: 400px;
+    margin-left: 890px;
+    margin-top: -400px;
+
+}
+
+.img4{
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.img5{
+    float: right;
+    width: 400px;
+    height: 400px;
+    margin-right: 10px;
+    margin-top: -400px;
+}
+.tex4 {
+    width: 400px;
+    height: 400px;
+    margin-left: 450px;
+    margin-top: -400px;
+
+}
+#cen p {
+    font-style: inherit;
+    font-size: 18px;
+    margin-left: 20px;
+    line-height: 40px;
+}
